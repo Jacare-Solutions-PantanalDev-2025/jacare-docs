@@ -11,6 +11,7 @@
 ### Colaboradores: 
 
 |Colaborador     |Perfil do GitHub |
+|----------------|-----------------|
 |Andre Faccio    |[AndreFaccio03](https://www.google.com/search?q=https://github.com/AndreFaccio03) |
 |Eos Xavier      |[theycelz](https://www.google.com/search?q=https://github.com/theycelz) |
 |Fabio Rodrigues |[fabiobr05](https://www.google.com/search?q=https://github.com/fabiobr05) |
