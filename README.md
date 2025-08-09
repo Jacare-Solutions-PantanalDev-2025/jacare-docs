@@ -12,7 +12,7 @@
 
 |Colaborador     |Perfil do GitHub |
 |----------------|-----------------|
-|Andre Faccio    |[AndreFaccio03](https://github.com/AndreFaccio03) |
+|André Faccio    |[AndreFaccio03](https://github.com/AndreFaccio03) |
 |Eos Xavier      |[theycelz](https://github.com/theycelz) |
 |Fabio Rodrigues |[fabiobr05](https://github.com/fabiobr05) |
 |Mário  Carvalho |[MarioCarvalhoBr](https://github.com/MarioCarvalhoBr) |
