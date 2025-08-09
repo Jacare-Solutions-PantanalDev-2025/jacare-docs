@@ -9,9 +9,10 @@
 - FIGMA: https://www.figma.com/design/Ac1Tya3YkDhKH4UyIJaVAB/Projeto-Principal?node-id=16-6&t=W9QqkqvOJIOaIHir-1
 
 ### Colaboradores: 
-| name | profile |
-| Andre Faccio | [AndreFaccio03](https://www.google.com/search?q=https://github.com/AndreFaccio03) |
-| Eos Xavier | [theycelz](https://www.google.com/search?q=https://github.com/theycelz) |
-| Fabio Rodrigues | [fabiobr05](https://www.google.com/search?q=https://github.com/fabiobr05) |
-| Mário de Araújo Carvalho | [MarioCarvalhoBr](https://github.com/MarioCarvalhoBr) |
-| Wagner Rodrigues | [WagnerRodriguesSilva](https://www.google.com/search?q=https://github.com/WagnerRodriguesSilva) |
+
+|Colaborador     |Perfil do GitHub |
+|Andre Faccio    |[AndreFaccio03](https://www.google.com/search?q=https://github.com/AndreFaccio03) |
+|Eos Xavier      |[theycelz](https://www.google.com/search?q=https://github.com/theycelz) |
+|Fabio Rodrigues |[fabiobr05](https://www.google.com/search?q=https://github.com/fabiobr05) |
+|Mário  Carvalho |[MarioCarvalhoBr](https://github.com/MarioCarvalhoBr) |
+|Wagner Rodrigues|[WagnerRodriguesSilva](https://www.google.com/search?q=https://github.com/WagnerRodriguesSilva) |
